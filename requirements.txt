@@ -1,0 +1,6 @@
+protobuf>=3.5.0.post1
+wheel>=0.29
+grpcio-tools
+grpc-interceptor
+pydub >= 0.25
+SpeechRecognition >= 3.8.1
